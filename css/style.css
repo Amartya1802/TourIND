@@ -96,7 +96,7 @@
 }
 
 .background{
-    background: rgba(0, 0, 0, 0.7) url('../img/flipped.jpg');
+    background: rgba(0, 0, 0, 0.7) url('../img/flipped-min.jpg');
     background-size: cover;
     
     background-blend-mode: darken;
@@ -222,7 +222,7 @@ background: radial-gradient(circle at 30% 107%, #fdf49777 0%, #fdf4977b 5%, #fd5
 
 }
 .part3{
-    background-image: url('../img/NE.jpg');
+    background-image: url('../img/NE-min.jpg');
     height: 400px;
     padding: 160px;
     background-size: cover;
@@ -258,7 +258,7 @@ background: radial-gradient(circle at 30% 107%, #fdf49777 0%, #fdf4977b 5%, #fd5
 }
 
 .part5{
-    background-image: url('../img/123.jpg');
+    background-image: url('../img/123-min.jpg');
     height: 500px;
     margin-bottom: 10rem;
     padding: 20px;
