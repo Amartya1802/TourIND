@@ -3,4 +3,4 @@
 #### Trying out HTML and CSS.
 <br>
 <br>
-Link to the website: [TourIND](https://amartya1802.github.io/TourIND/)
+Link to the website [TourIND](https://amartya1802.github.io/TourIND/)
